@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>India Home Services | Trusted Home Staffing</title>
+
+    <meta name="description"
+        content="India Home Services provides trusted and professional home staffing solutions.">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+<h2>India Home Services</h2>
+</div>
+
+<ul class="nav-links">
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#profiles">Profiles</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<div class="nav-btn">
+
+<a href="tel:9871074883" class="call-btn">
+<i class="fa-solid fa-phone"></i>
+Call Now
+</a>
+
+</div>
+
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<div class="hero-left">
+
+<span class="badge">
+
+Trusted Home Staffing
+
+</span>
+
+<h1>
+
+Professional Domestic Staff For Your Home
+
+</h1>
+
+<p>
+
+Find experienced and reliable domestic staff through India Home Services.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="tel:9871074883" class="primary-btn">
+
+Call Now
+
+</a>
+
+<a href="https://wa.me/919953028057" class="secondary-btn">
+
+WhatsApp
+
+</a>
+
+</div>
+
+<div class="hero-boxes">
+
+<div class="box">
+
+<h3>500+</h3>
+
+<p>Happy Families</p>
+
+</div>
+
+<div class="box">
+
+<h3>100+</h3>
+
+<p>Verified Staff</p>
+
+</div>
+
+<div class="box">
+
+<h3>5+</h3>
+
+<p>Service Cities</p>
+
+</div>
+
+</div>
+
+</div>
+
+
+<div class="hero-right">
+
+<img src="images/hero.webp" alt="India Home Services">
+
+</div>
+
+</section>
+<!-- =========================
+     ABOUT SECTION
+========================= -->
+
+<section class="about" id="about">
+
+    <div class="container">
+
+        <div class="about-image">
+            <img src="images/about.webp" alt="About India Home Services">
+        </div>
+
+        <div class="about-content">
+
+            <span class="section-tag">About Us</span>
+
+            <h2>Trusted Home Staffing Solutions</h2>
+
+            <p>
+                India Home Services is committed to helping families find
+                reliable domestic staff through a professional and
+                customer-focused approach.
+            </p>
+
+            <p>
+                Our goal is to provide dependable home staffing solutions
+                while ensuring a smooth and hassle-free experience for
+                every customer.
+            </p>
+
+            <div class="about-features">
+
+                <div class="feature">
+                    <i class="fa-solid fa-circle-check"></i>
+                    <span>Professional Service</span>
+                </div>
+
+                <div class="feature">
+                    <i class="fa-solid fa-circle-check"></i>
+                    <span>Quick Response</span>
+                </div>
+
+                <div class="feature">
+                    <i class="fa-solid fa-circle-check"></i>
+                    <span>Customer Support</span>
+                </div>
+
+                <div class="feature">
+                    <i class="fa-solid fa-circle-check"></i>
+                    <span>Experienced Staff</span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     WHY CHOOSE US
+========================= -->
+
+<section class="why-us">
+
+    <div class="section-title">
+
+        <span>Why Choose Us</span>
+
+        <h2>Why Families Trust India Home Services</h2>
+
+    </div>
+
+    <div class="cards">
+
+        <div class="card">
+
+            <i class="fa-solid fa-user-check"></i>
+
+            <h3>Professional Team</h3>
+
+            <p>
+                Dedicated support to help you find suitable home staff.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-headset"></i>
+
+            <h3>Fast Assistance</h3>
+
+            <p>
+                Quick response through phone and WhatsApp.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-handshake"></i>
+
+            <h3>Trusted Service</h3>
+
+            <p>
+                We focus on providing a smooth customer experience.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <i class="fa-solid fa-location-dot"></i>
+
+            <h3>Multiple Cities</h3>
+
+            <p>
+                Services available in Delhi, Noida, Ghaziabad,
+                Lucknow and Agra.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     SERVICES
+========================= -->
+
+<section class="services">
+
+    <div class="section-title">
+
+        <span>Our Services</span>
+
+        <h2>Home Staffing Solutions</h2>
+
+    </div>
+
+    <div class="service-grid">
+
+        <div class="service-card">
+
+            <i class="fa-solid fa-house"></i>
+
+            <h3>Domestic Staff</h3>
+
+            <p>
+                Reliable household staff based on your requirements.
+            </p>
+
+        </div>
+
+        <div class="service-card">
+
+            <i class="fa-solid fa-clock"></i>
+
+            <h3>Flexible Options</h3>
+
+            <p>
+                Solutions tailored to different household needs.
+            </p>
+
+        </div>
+
+        <div class="service-card">
+
+            <i class="fa-solid fa-phone-volume"></i>
+
+            <h3>Easy Contact</h3>
+
+            <p>
+                Connect with our team quickly by phone or WhatsApp.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- =========================
+     FEATURED PROFILES
+========================= -->
+
+<section class="profiles" id="profiles">
+
+    <div class="section-title">
+        <span>Featured Profiles</span>
+        <h2>Available Staff</h2>
+        <p>Select a profile and contact our team for assistance.</p>
+    </div>
+
+    <div class="profile-grid">
+
+        <div class="profile-card">
+
+            <img src="images/maids/maid-1.webp" alt="Staff Profile">
+
+            <div class="profile-content">
+
+                <h3>Anita</h3>
+
+                <p><i class="fa-solid fa-location-dot"></i> Delhi</p>
+
+                <p><i class="fa-solid fa-briefcase"></i> Experience: 5 Years</p>
+
+                <p><i class="fa-solid fa-language"></i> Hindi</p>
+
+                <a href="tel:9871074883" class="profile-btn">
+                    Contact Agency
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="profile-card">
+
+            <img src="images/maids/maid-2.webp" alt="Staff Profile">
+
+            <div class="profile-content">
+
+                <h3>Pooja</h3>
+
+                <p><i class="fa-solid fa-location-dot"></i> Noida</p>
+
+                <p><i class="fa-solid fa-briefcase"></i> Experience: 4 Years</p>
+
+                <p><i class="fa-solid fa-language"></i> Hindi</p>
+
+                <a href="tel:9871074883" class="profile-btn">
+                    Contact Agency
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="profile-card">
+
+            <img src="images/maids/maid-3.webp" alt="Staff Profile">
+
+            <div class="profile-content">
+
+                <h3>Sunita</h3>
+
+                <p><i class="fa-solid fa-location-dot"></i> Ghaziabad</p>
+
+                <p><i class="fa-solid fa-briefcase"></i> Experience: 6 Years</p>
+
+                <p><i class="fa-solid fa-language"></i> Hindi</p>
+
+                <a href="tel:9871074883" class="profile-btn">
+                    Contact Agency
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     WHY CLIENTS CHOOSE US
+========================= -->
+
+<section class="stats">
+
+    <div class="stat-box">
+        <h2>1000+</h2>
+        <p>Families Assisted</p>
+    </div>
+
+    <div class="stat-box">
+        <h2>500+</h2>
+        <p>Active Staff Profiles</p>
+    </div>
+
+    <div class="stat-box">
+        <h2>5+</h2>
+        <p>Service Cities</p>
+    </div>
+
+    <div class="stat-box">
+        <h2>24×7</h2>
+        <p>Customer Support</p>
+    </div>
+
+</section>
+
+<!-- =========================
+     FAQ
+========================= -->
+
+<section class="faq">
+
+    <div class="section-title">
+
+        <span>FAQ</span>
+
+        <h2>Frequently Asked Questions</h2>
+
+    </div>
+
+    <div class="faq-item">
+        <h3>How do I contact your agency?</h3>
+        <p>You can call us directly or connect through WhatsApp.</p>
+    </div>
+
+    <div class="faq-item">
+        <h3>Which cities do you currently serve?</h3>
+        <p>Delhi, Noida, Ghaziabad, Lucknow and Agra.</p>
+    </div>
+
+    <div class="faq-item">
+        <h3>How quickly will I receive a response?</h3>
+        <p>Our team aims to respond to enquiries as soon as possible during business hours.</p>
+    </div>
+
+</section>
+
+<!-- =========================
+     CONTACT CTA
+========================= -->
+
+<section class="contact-cta">
+
+    <h2>Need Home Staffing Assistance?</h2>
+
+    <p>
+        Speak with our team today for more information.
+    </p>
+
+    <div class="cta-buttons">
+
+        <a href="tel:9871074883" class="primary-btn">
+            <i class="fa-solid fa-phone"></i>
+            Call Now
+        </a>
+
+        <a href="https://wa.me/919953028057" class="secondary-btn" target="_blank">
+            <i class="fa-brands fa-whatsapp"></i>
+            WhatsApp
+        </a>
+
+    </div>
+
+</section>
+<!-- =========================
+     CONTACT SECTION
+========================= -->
+
+<section class="contact" id="contact">
+
+    <div class="section-title">
+        <span>Contact Us</span>
+        <h2>Get In Touch</h2>
+        <p>Our team is ready to assist you.</p>
+    </div>
+
+    <div class="contact-wrapper">
+
+        <div class="contact-info">
+
+            <div class="info-box">
+                <i class="fa-solid fa-phone"></i>
+                <div>
+                    <h3>Call Us</h3>
+                    <p>+91 9871074883</p>
+                </div>
+            </div>
+
+            <div class="info-box">
+                <i class="fa-brands fa-whatsapp"></i>
+                <div>
+                    <h3>WhatsApp</h3>
+                    <p>+91 9953028057</p>
+                </div>
+            </div>
+
+            <div class="info-box">
+                <i class="fa-solid fa-location-dot"></i>
+                <div>
+                    <h3>Service Areas</h3>
+                    <p>Delhi • Noida • Ghaziabad • Lucknow • Agra</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="contact-form">
+
+            <form>
+
+                <input type="text" placeholder="Full Name" required>
+
+                <input type="tel" placeholder="Mobile Number" required>
+
+                <input type="text" placeholder="City" required>
+
+                <textarea rows="5" placeholder="Tell us your requirement"></textarea>
+
+                <button type="submit">
+                    Send Enquiry
+                </button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================
+     FOOTER
+========================= -->
+
+<footer>
+
+    <div class="footer-container">
+
+        <div class="footer-about">
+
+            <h2>India Home Services</h2>
+
+            <p>
+                Professional home staffing solutions with a customer-first
+                approach.
+            </p>
+
+        </div>
+
+        <div class="footer-links">
+
+            <h3>Quick Links</h3>
+
+            <ul>
+
+                <li><a href="#">Home</a></li>
+
+                <li><a href="#about">About</a></li>
+
+                <li><a href="#profiles">Profiles</a></li>
+
+                <li><a href="#contact">Contact</a></li>
+
+            </ul>
+
+        </div>
+
+        <div class="footer-contact">
+
+            <h3>Contact</h3>
+
+            <p><strong>Phone:</strong> +91 9871074883</p>
+
+            <p><strong>WhatsApp:</strong> +91 9953028057</p>
+
+        </div>
+
+    </div>
+
+    <div class="copyright">
+
+        © 2026 India Home Services. All Rights Reserved.
+
+    </div>
+
+</footer>
+
+<!-- Floating Call Button -->
+
+<a href="tel:9871074883" class="floating-call">
+
+    <i class="fa-solid fa-phone"></i>
+
+</a>
+
+<!-- Floating WhatsApp Button -->
+
+<a href="https://wa.me/919953028057"
+   class="floating-whatsapp"
+   target="_blank">
+
+    <i class="fa-brands fa-whatsapp"></i>
+
+</a>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
